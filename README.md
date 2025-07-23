@@ -24,7 +24,7 @@
 
 ## 🛠️ Projects
 
-### ✍️ Web-Based Handwritten Digit Recognition  
+### ✍️ [Web-Based Handwritten Digit Recognition](https://github.com/prasannad52/Web-based-handwritten-digit-recognition)  
 - Developed an integrated system for handwritten digit recognition using TensorFlow, OpenCV & Flask.  
 - Enabled real-time canvas drawing, image capture, and upload functionalities.  
 - Deployed using Flask, MongoDB, and HTML/CSS.
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Student Exam Performance Prediction  
+### 📊 [Student Exam Performance Prediction](https://github.com/prasannad52/end-to-end-ML-project)  
 - Built a web-based ML app to predict student math scores based on study-related features.  
 - Used Flask for deployment and included visual insights with matplotlib and seaborn.
 
@@ -70,8 +70,8 @@
 ## 📜 Certifications
 
 - ✅ [GeeksforGeeks: Data Science & Machine Learning (26-Week Course)](https://media.geeksforgeeks.org/courses/certificates/d4630e169f42cb04b2d854514a38765e.pdf)  
-- ✅ GenAI Intensive Course – Hands-on with prompt engineering and Generative AI tools  
-- ✅ Apna College Sigma 7.0 – Java with DSA
+- ✅ [GenAI Intensive Course – Hands-on with prompt engineering and Generative AI tools](https://www.kaggle.com/certification/badges/prasannadindi/96)  
+- ✅ [Apna College Sigma 7.0 – Java with DSA](https://drive.google.com/file/d/1pxqPN47zebuB0Q_PPiSw3LXpYlcXSGUr/view)
 
 ---
 
