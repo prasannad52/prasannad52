@@ -1,60 +1,89 @@
-# Hi, I'm Prasanna Sharanabasappa Dindi 👋
+# Prasanna Sharanabasappa Dindi
 
-🎓 B.E. in Computer Science | Dr. Ambedkar Institute of Technology  
-🧠 AI/ML Intern @ Indian Institute of Science  
-📈 Aspiring Data Scientist | Software Developer  
-🔭 Currently working on AI-powered posture correction & ML Projects
-
----
-
-## 🚀 Skills & Technologies
-
-**Languages:** Java, Python, C, HTML, SQL, JavaScript (Basics)  
-**Tools & Frameworks:** TensorFlow, PyTorch, Flask, Scikit-Learn, OpenCV  
-**Development:** Data Analysis, Machine Learning, Deep Learning, GenAI  
-**Tools:** Git, GitHub, Jupyter, Google Colab, VS Code  
-**Concepts:** DBMS, Operating System, Cloud Computing, Computer Vision
+🎯 Passionate Computer Science Engineer | Aspiring Data Scientist & Software Engineer  
+🚀 Enthusiastic about AI, Machine Learning, Web Development, and Real-World Problem Solving  
+📍 Bengaluru, India | 🌐 [LinkedIn](https://www.linkedin.com/in/prasanna-dindi-3269ab259/) | 📧 prasannadindi52@gmail.com | 🖥️ [GitHub](https://github.com/prasannad52)
 
 ---
 
-## 🧠 Projects
+## 🎓 Education
 
-### [🖋️ Web-Based Handwritten Digit Recognition](https://github.com/prasannad52/Web-based-handwritten-digit-recognition)
-- Uses TensorFlow, OpenCV, Flask
-- Recognizes handwritten digits via canvas, webcam, or image upload
+**Bachelor of Engineering in Computer Science & Engineering**  
+*Dr. Ambedkar Institute of Technology, Bengaluru*  
+*2022 – 2026 | CGPA: 9.25*
 
-### 📊 Student Exam Performance Prediction
-- Predicts student math scores using machine learning
-- Flask web app with interactive data visualization
+**Pre-University Education (PUC)**  
+*S M Bhandari Arts, R R Bhandari Commerce, S K Rathi Science College*  
+*2020 – 2022 | Percentage: 95.83%*
 
-### 🧘‍♂️ Yoga Pose Correction (IISc Internship)
-- AI-powered posture feedback system using deep learning
+**High School (10th Standard)**  
+*Venkatesh Kannada Medium Highschool*  
+*2017 – 2020 | Percentage: 98.56%*
 
 ---
 
-## 🎓 Certifications
+## 🛠️ Projects
 
-- ✅ [GeeksforGeeks Data Science & ML (26 weeks)](https://media.geeksforgeeks.org/courses/certificates/d4630e169f42cb04b2d854514a38765e.pdf)
-- ✅ GenAI Intensive Course (Prompt Engineering & Applications)
-- ✅ Java + DSA (Sigma 7.0 @ Apna College)
+### ✍️ Web-Based Handwritten Digit Recognition  
+- Developed an integrated system for handwritten digit recognition using TensorFlow, OpenCV & Flask.  
+- Enabled real-time canvas drawing, image capture, and upload functionalities.  
+- Deployed using Flask, MongoDB, and HTML/CSS.
+
+**Tools:** Python, TensorFlow, OpenCV, Flask, HTML, CSS, MongoDB
+
+---
+
+### 📊 Student Exam Performance Prediction  
+- Built a web-based ML app to predict student math scores based on study-related features.  
+- Used Flask for deployment and included visual insights with matplotlib and seaborn.
+
+**Tools:** Python, Flask, Scikit-Learn, Pandas, NumPy, Matplotlib, GitHub
+
+---
+
+### 🧘‍♂️ Yoga Posture Correction (IISc Internship)  
+- Worked as AI/ML Intern at Indian Institute of Science, Bengaluru.  
+- Developed posture correction using pose estimation and deep learning for Yoga.  
+- Used MediaPipe, TensorFlow & computer vision techniques.
+
+**Tools:** Python, OpenCV, TensorFlow, MediaPipe, Deep Learning
+
+---
+
+## 💻 Technical Skills
+
+**Languages:** Java, Python, C, HTML, JavaScript (Basics), SQL  
+**Frameworks/Libraries:** TensorFlow, PyTorch, Flask, OpenCV, Keras, Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib  
+**Developer Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code, Render  
+**CS Fundamentals:** DBMS, Operating Systems, Computer Networks, Cloud Computing  
+**Others:** MS Excel, Word, PowerPoint, ChatGPT, Fast Typing (88 WPM)
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 State Rank in 10th Board Exams (KSEEB)
-- 🏅 Cleared NMMS Scholarship Exam
+- 🎖️ State Rank 10, District Rank 6, Taluk Rank 2 – 10th Board (KSEEB), 98.56%  
+- 🏅 Cleared NMMS (National Means-cum-Merit Scholarship) Exam – 2019
 
 ---
 
-## 📫 Let's Connect!
+## 📜 Certifications
 
-- 📧 Email: [prasannadindi52@gmail.com](mailto:prasannadindi52@gmail.com)  
-- 💼 LinkedIn: [@prasanna-dindi](https://www.linkedin.com/in/prasanna-dindi-3269ab259/)  
-- 🐍 Kaggle: [@prasannadindi](https://www.kaggle.com/certification/badges/prasannadindi/96)
+- ✅ [GeeksforGeeks: Data Science & Machine Learning (26-Week Course)](https://media.geeksforgeeks.org/courses/certificates/d4630e169f42cb04b2d854514a38765e.pdf)  
+- ✅ GenAI Intensive Course – Hands-on with prompt engineering and Generative AI tools  
+- ✅ Apna College Sigma 7.0 – Java with DSA
 
 ---
 
-> _“There are two ways to live: you can live as if nothing is a miracle, or you can live as if everything is a miracle.”_  
-> — Albert Einstein
+## 🌱 Interests
 
+📚 Reading Books  
+🎧 Listening to Songs  
+🌍 Watching Travel Vlogs  
+⌨️ Speed Typing (88 WPM)  
+🧠 Solving Sudoku  
+🌐 Exploring Geopolitics
+
+---
+
+> _“There are two ways to live: you can live as if nothing is a miracle, or you can live as if everything is a miracle.”_ — Albert Einstein
