@@ -13,11 +13,11 @@
 *2022 – 2026 | CGPA: 9.25*
 
 **Pre-University Education (PUC)**  
-*S M Bhandari Arts, R R Bhandari Commerce, S K Rathi Science College*  
+*S M Bhandari Arts, R R Bhandari Commerce, S K Rathi Science College, Guledgudda*  
 *2020 – 2022 | Percentage: 95.83%*
 
 **High School (10th Standard)**  
-*Venkatesh Kannada Medium Highschool*  
+*Venkatesh Kannada Medium Highschool, Guledgudda*  
 *2017 – 2020 | Percentage: 98.56%*
 
 ---
