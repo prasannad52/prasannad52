@@ -41,15 +41,6 @@
 
 ---
 
-### 🧘‍♂️ Yoga Posture Correction (IISc Internship)  
-- Worked as AI/ML Intern at Indian Institute of Science, Bengaluru.  
-- Developed posture correction using pose estimation and deep learning for Yoga.  
-- Used MediaPipe, TensorFlow & computer vision techniques.
-
-**Tools:** Python, OpenCV, TensorFlow, MediaPipe, Deep Learning
-
----
-
 ## 💻 Technical Skills
 
 **Languages:** Java, Python, C, HTML, JavaScript (Basics), SQL  
